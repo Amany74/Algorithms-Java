@@ -4,12 +4,12 @@ this repo contains the code I wrote to learn algorithms using Java
 
 Algorithms covered :
 
-  -Bubble Sort
+    -Bubble Sort
   
-  -Insertion Sort
+    -Insertion Sort
   
-  -Merge Sort
+    -Merge Sort
   
-  -Quick Sort
+    -Quick Sort
   
-  -Selection Sort
+    -Selection Sort
